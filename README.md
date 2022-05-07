@@ -10,9 +10,9 @@
 ###  Working test version of the application [Amber City LLC](https://ambercity.herokuapp.com/)
 
 #### To set up the application on the local server you need. 
-- Download project and setup localy
+- Download project and set up locally.
 - The first will install all project dependencies by running the command in bash ```pip install -r requirements.txt```. 
-- The second run command ```python manage.py runserver```
+- The second run command ```python manage.py runserver```.
 
 
 ### Technology used in this project:

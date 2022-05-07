@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-ya260k_cd+(gxu3n5^%wi=l^s0i(s8rg5+8z2xz@!^51+!cj_j'
+SECRET_KEY = 'your_secret_key'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -137,10 +137,10 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'ambershop',
-        'USER': 'amberuser',
-        'USER': 'amberuser',
-        'PASSWORD':'#Lol123lol$',
+        'NAME': 'data_base_name',
+        'USER': 'username',
+        'USER': 'username',
+        'PASSWORD':'your_password',
         'HOST':'ambershop-identifier.ceejzmoj60wh.us-east-1.rds.amazonaws.com',
         'PORT':'5432',
     }
@@ -199,10 +199,10 @@ CORS_ALLOW_ALL_ORIGINS = True
 
 # AWS S3 configuration for images storige
 AWS_QUERYSTRING_AUTH = False
-DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
-AWS_ACCESS_KEY_ID = 'AKIARVTTN2VAQGIQVHP3'
-AWS_SECRET_ACCESS_KEY = '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'
-AWS_STORAGE_BUCKET_NAME = 'ambershop-bucket'
+DEFAULT_FILE_STORAGE = 'none'
+AWS_ACCESS_KEY_ID = 'none'
+AWS_SECRET_ACCESS_KEY = 'none'
+AWS_STORAGE_BUCKET_NAME = 'none'
 
 
 if os.getcwd() == '/app':

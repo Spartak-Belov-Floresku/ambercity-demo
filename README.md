@@ -13,6 +13,7 @@
 - Download project and set up locally.
 - Install all project dependencies by running the command in bash ```pip install -r requirements.txt```. 
 - Run commands ```python3 -m venv venv```, ```. venv/bin/activate```, ```cd backend``` and ```python manage.py runserver```.
+- The application will run on http://127.0.0.1:8000/
 
 
 ### Technology used in this project:

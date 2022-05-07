@@ -3,7 +3,8 @@
 
 ## SPA e-commerce strategy and e-shop web application that allows users to shop online. The application was created using the PayPal payment system.
 
-- The application allows the user users to shop online. ##(This is test version NOT REAL) 
+ ## This is test version ```NOT REAL```
+- The application allows the users to shop online.
 - Moreover, you can create a test account and navigate through the app. 
 
 ###  Working test version of the application [Amber City LLC](https://ambercity.herokuapp.com/)

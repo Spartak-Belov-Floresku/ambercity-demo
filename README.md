@@ -1,4 +1,4 @@
-# [Amber City](https://ambercity.herokuapp.com/)
+# [E-commerce](https://ambercity.herokuapp.com/)
 ## The application takes time to load up. The Heroku server puts an application to sleep if the application has not been used for one hour.
 
 ## SPA e-commerce strategy and e-shop web application that allows users to shop online. The application was created using the PayPal payment system.
@@ -7,7 +7,7 @@
 - The application allows the users to shop online.
 - Moreover, you can create a test account and navigate through the app. 
 
-###  Working test version of the application [Amber City LLC](https://ambercity.herokuapp.com/)
+###  Working test version of the application [E-commerce](https://ambercity.herokuapp.com/)
 
 #### To set up the application on the local server you need. 
 - Download project and set up locally.

@@ -12,7 +12,7 @@
 #### To set up the application on the local server you need. 
 - Download project and set up locally.
 - Install all project dependencies by running the command in bash ```pip install -r requirements.txt```. 
-- Run commands ```cd backend``` and ```. venv/bin/activate``` and ```python manage.py runserver```.
+- Run commands ```python3 -m venv venv```, ```. venv/bin/activate```, ```cd backend``` and ```python manage.py runserver```.
 
 
 ### Technology used in this project:

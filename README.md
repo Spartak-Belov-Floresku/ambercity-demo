@@ -7,7 +7,7 @@
 - The application allows the users to shop online.
 - Moreover, you can create a test account and navigate through the app. 
 
-###  Working test version of the application [E-commerce](https://ambercity.herokuapp.com/)
+###  Working test version of the application [E-commerce](https://ambercity-demo.herokuapp.com/)
 
 #### To set up the application on the local server you need. 
 - Download project and set up locally.
